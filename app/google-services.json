@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "5038732719",
+    "firebase_url": "https://activity-monitor--esp32-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "activity-monitor--esp32",
+    "storage_bucket": "activity-monitor--esp32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5038732719:android:16825b893ed34782c26b5a",
+        "android_client_info": {
+          "package_name": "com.example.activitymonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBp1iZfFSyNFy7ymrHoDBWtRE2QwV6ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
