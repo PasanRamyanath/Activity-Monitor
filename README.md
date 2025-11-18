@@ -15,9 +15,9 @@ Real-time Android app to visualize biosignals—ECG, EMG, and Heart Rate—from 
 
 ## Screenshots
 
-| Home | ECG | EMG |
+| EMG | ECG | Running |
 |---|---|---|
-| ![Home](screenshots/2.png) | ![ECG](screenshots/3.png) | ![EMG](screenshots/4.jpg) |
+| ![EMG](screenshots/2.png) | ![ECG](screenshots/3.png) | ![Running](screenshots/4.jpg) |
 
 ## Tech Stack
 - Android, Kotlin, Jetpack Compose (Material 3)
